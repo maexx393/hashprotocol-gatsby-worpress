@@ -9,5 +9,11 @@
  */
 
 {
+    "buttons": {
+        "scope": "",
+        "version": "",
+        "mainFile": "button.js",
+        "rootDir": "src/components/buttons"
+    },
     "$schema-version": "14.9.0"
 }
