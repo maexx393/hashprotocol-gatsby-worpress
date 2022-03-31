@@ -15,7 +15,7 @@ export default class ImageSection extends React.Component {
             <div className={'container'}>
                 <div className={'inner'}>
 
-                    {this.props.logo && <div className={'logo mb-3'}><img src={logo} alt="elestia"/></div>}
+                    {this.props.logo && <div className={'logo mb-3'}><img src={logo} alt="Celestia"/></div>}
                     <h3 className={'my-5 with-decor'}>{this.props.title}</h3>
                     {this.props.text}
                 </div>
