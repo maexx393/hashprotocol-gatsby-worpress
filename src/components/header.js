@@ -39,7 +39,7 @@ const navigation = [
             {
                 text: "Join our Discord Channel",
                 subtext: "Discord",
-                url: "https://discord.com/invite/YsnTPcSfWQ",
+                url: "https://discord.com/invite/hashcash",
                 icon: "menu/discord.svg",
                 type: 'external'
             },
