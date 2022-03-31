@@ -1,7 +1,7 @@
 import * as React from "react"
 import Image from "../imageComponent";
 
-import logo from '../../images/Celestia-logo-white.svg'
+import logo from '../../images/celestia-logo-white.svg'
 
 export default class ImageSection extends React.Component {
     render() {

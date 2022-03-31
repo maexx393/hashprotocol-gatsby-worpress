@@ -61,7 +61,7 @@ class IndexPage extends React.Component {
                                       <Card image={'home/architecture.png'} title={'Traditional monolithic architecture'} text={'<ul><li>Developers can only use programming languages supported by chain\'s execution environment</li><li>All applications run on the same process (the world computer model), with shared gas resources</li><li>Smart contracts cannot be updated without a hard fork</li></ul>'}/>
                                   </div>
                                   <div className={'col col-12 col-lg-6 ps-lg-4'}>
-                                      <Card image={'home/celestia-architecture.png'} title={'Celestia-enabled modular architecture'} text={'<ul><li>Developers can effortlessly define their own virtual execution environments; similar to virtual machines</li><li>Each application gets its own sovereign execution space, while inheriting the security of Celestia\'s consensus</li><li>Applications can be updated without main chain hard forks</li></ul>'}/>
+                                      <Card image={'home/celestia-architecture.png'} title={'Hashcash-enabled modular architecture'} text={'<ul><li>Developers can effortlessly define their own virtual execution environments; similar to virtual machines</li><li>Each application gets its own sovereign execution space, while inheriting the security of Celestia\'s consensus</li><li>Applications can be updated without main chain hard forks</li></ul>'}/>
                                   </div>
                               </div>
                               <div className={'row justify-content-center pt-5'}>
