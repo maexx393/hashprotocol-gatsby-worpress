@@ -155,13 +155,12 @@ class Footer extends React.Component {
 
                     <div className={'row justify-content-center'}>
                         <div className={'col col-12 col-sm-6'}>
-                            <p>This website is maintained by Hash Protocol, trading name of Strange Loop Labs AG, Pradafant 11, 9490 Vaduz, Liechtenstein.</p>
+                            <p>This website is maintained by Hash Protocol, trading name of Hashcash Finance.</p>
                         </div>
                     </div>
 
                     <div className={'row justify-content-center copyright'}>
                         <div className={'col col-12 col-sm-6 text-center'}>
-                            <p>Website designed with <i className={'icon-heart'}/> by <a href="https://designatives.com">Designatives</a></p>
                         </div>
                     </div>
                 </div>
