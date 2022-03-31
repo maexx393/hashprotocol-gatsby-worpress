@@ -53,7 +53,7 @@ export default class BackersSection extends React.Component {
     }
     async getPosts() {
         try {
-            let response = await fetch('https://blog.celestia.org/ghost/api/v3/content/posts/?key=000cf34311006e070b17fffcfd&limit=5&fields=title,text,feature_image,url');
+            let response = await fetch('https://blog.hashprotocol.io/ghost/api/v3/content/posts/?key=000cf34311006e070b17fffcfd&limit=5&fields=title,text,feature_image,url');
             let responseJson = await response.json();
 
             const blogPosts = [];
@@ -156,7 +156,7 @@ export default class BackersSection extends React.Component {
 
                     <div className={'row justify-content-end'}>
                         <div className={'col-auto'}>
-                            <Button type={'external'} class={'external'} text={'View blog'} url={'https://blog.celestia.org'}/>
+                            <Button type={'external'} class={'external'} text={'View blog'} url={'https://blog.hashprotocol.io'}/>
                         </div>
                     </div>
                 </div>

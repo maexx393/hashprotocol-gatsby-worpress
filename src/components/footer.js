@@ -33,7 +33,7 @@ const navigation = [
         type: 'internal'
     },{
         text: "Blog",
-        url: "https://blog.celestia.org",
+        url: "https://blog.hashprotocol.io",
         type: 'external'
     },{
         text: "FAQ",
@@ -49,7 +49,7 @@ const navigation = [
         type: 'external'
     },{
         text: "Forum",
-        url: "https://forum.celestia.org",
+        url: "https://forum.hashprotocol.io",
         type: 'external'
     },
 ]

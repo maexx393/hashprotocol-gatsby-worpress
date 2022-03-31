@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://celestia.org",
+    siteUrl: "https://hashprotocol.io",
     title: "Celestia",
   },
   plugins: [
@@ -26,9 +26,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-plausible`,
       options: {
-        domain: `celestia.org`,
+        domain: `hashprotocol.io`,
         // https://github.com/pixelplicity/gatsby-plugin-plausible/issues/49#issuecomment-716125674
-        customDomain: `plausible.celestia.org/js/plausible.js?original=`,
+        customDomain: `plausible.hashprotocol.io/js/plausible.js?original=`,
       },
     },
     "gatsby-transformer-remark",

@@ -60,7 +60,7 @@ const navigation = [
             {
                 text: "Join our Forum",
                 subtext: "Forum",
-                url: "https://forum.celestia.org",
+                url: "https://forum.hashprotocol.io",
                 icon: "menu/forum.svg",
                 type: 'external'
             }
@@ -102,7 +102,7 @@ const navigation = [
         type: 'internal'
     },{
         text: "Blog",
-        url: "https://blog.celestia.org",
+        url: "https://blog.hashprotocol.io",
         type: 'external'
     },
 ]
