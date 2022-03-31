@@ -2,7 +2,7 @@ export const teamMembers = [
     {
         id : 1,
         name : 'Mustafa Al-Bassam',
-        title: 'CEO, Celestia Labs',
+        title: 'CEO, Hash Protocol',
         text: 'PhD in blockchain scaling at UCL, Co-founder of Chainspace (acquired by Facebook)',
         image: 'team/MustafaAlBassam.png',
         socials: {
@@ -16,7 +16,7 @@ export const teamMembers = [
     {
         id : 2,
         name : 'Ismail Khoffi',
-        title: 'CTO, Celestia Labs',
+        title: 'CTO, Hash Protocol',
         text: 'Former senior engineer at Tendermint and Interchain Foundation',
         image: 'team/IsmailKhoffi.png',
         socials: {
@@ -30,7 +30,7 @@ export const teamMembers = [
     {
         id : 3,
         name : 'John Adler',
-        title: 'CRO, Celestia Labs',
+        title: 'CRO, Hash Protocol',
         text: 'Creator of Optimistic Rollups, previously scalability researcher at ConsenSys',
         image: 'team/JohnAdler.png',
         socials: {
@@ -44,7 +44,7 @@ export const teamMembers = [
     {
         id : 4,
         name : 'Nick White',
-        title: 'COO, Celestia Labs',
+        title: 'COO, Hash Protocol',
         text: 'Co-founder of Harmony, BS & MS from Stanford',
         image: 'team/NickWhite.png',
         socials: {
@@ -142,7 +142,7 @@ export const teamMembers = [
     {
         id : 12,
         name : 'Alexandru Popescu',
-        title: 'VP Marketing, Celestia Labs',
+        title: 'VP Marketing, Hash Protocol',
         text: 'Former Digital Marketing Wizard at Mindvalley Labs',
         image: 'team/AlexandruPopescu.png',
         socials: {

@@ -1,6 +1,6 @@
 export const content = {
         title : 'Meet the team',
-        subtitle: 'We\'re building the Celestia network',
+        subtitle: 'We\'re building the Hash Protocol network',
         text: 'Our team has deep experience building and scaling blockchains from projects like Ethereum, Cosmos and Harmony.<br/><br/>We are on a mission to change the way that blockchains and decentralized applications are built—making them more secure, scalable and sovereign. We envision a world where global communities have the power to self-organize without being burdened by existing power structures.',
         menus: [
             {
@@ -16,9 +16,9 @@ export const content = {
 export const FooterBoxes = [
     {
         title: 'Join our growing community',
-        text: 'Be part of our growing community of developers and innovators who are helping build the Celestia network.',
+        text: 'Be part of our growing community of developers and innovators who are helping build the Hash Protocol network.',
         button: {
-            text: 'Help build Celestia',
+            text: 'Help build Hash Protocol',
             href: '/join-our-community',
             id: 'operator',
             type: 'simple'
@@ -26,7 +26,7 @@ export const FooterBoxes = [
     },
     {
         title: 'Build on our developer beta',
-        text: 'Build on Celestia and be the first to explore the benefits of its novel architecture.',
+        text: 'Build on Hash Protocol and be the first to explore the benefits of its novel architecture.',
         button: {
             text: 'Join the waitlist',
             href: '#',

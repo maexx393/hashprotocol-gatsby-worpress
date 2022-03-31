@@ -13,14 +13,14 @@ const navigation = [
             {
                 text: "View our GitHub repos",
                 subtext: "GitHub repositories",
-                url: "https://github.com/celestiaorg",
+                url: "https://github.com/hashprotocol",
                 icon: "menu/github.svg",
                 type: 'external'
             },
             {
                 text: "Experiment with devnet",
                 subtext: "Devnet",
-                url: "https://github.com/celestiaorg/networks",
+                url: "https://github.com/hashprotocol/networks",
                 icon: "menu/devnet.svg",
                 type: 'external'
             },
@@ -46,14 +46,14 @@ const navigation = [
             {
                 text: "Join our Telegram group",
                 subtext: "Telegram",
-                url: "https://t.me/CelestiaCommunity",
+                url: "https://t.me/HashprotocolCommunity",
                 icon: "menu/telegram.svg",
                 type: 'external'
             },
             {
                 text: "Follow us on twitter",
                 subtext: "Twitter",
-                url: "https://twitter.com/CelestiaOrg",
+                url: "https://twitter.com/hashprotocol",
                 icon: "menu/twitter.svg",
                 type: 'external'
             },
@@ -87,7 +87,7 @@ const navigation = [
             {
                 text: "Read our best tweets",
                 subtext: "Twitter",
-                url: "https://typefully.com/CelestiaOrg",
+                url: "https://typefully.com/hashprotocol",
                 icon: "menu/twitter.svg",
                 type: 'external'
             }
@@ -140,7 +140,7 @@ class Header extends React.Component {
         return (
             <header id={'header'}>
                 <Helmet>
-                    <title>Celestia</title>
+                    <title>Hash Protocol</title>
                 </Helmet>
                 <div className={'blurry'}/>
                 <div className={'container'}>
@@ -150,7 +150,7 @@ class Header extends React.Component {
                       </span>
                     </button>
                     <div className={'logo'}>
-                        <Link to="/"><img src={logo} alt="Celestia"/></Link>
+                        <Link to="/"><img src={logo} alt="HashProtocol"/></Link>
                     </div>
                     <nav>
                         <ul>

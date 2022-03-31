@@ -143,9 +143,9 @@ class Footer extends React.Component {
                                     <div className={'col-title text-right'}>Follow us</div>
                                     <div className={'socials'}>
                                         <Discord url={'https://discord.com/invite/YsnTPcSfWQ'}/>
-                                        <Github url={'https://github.com/celestiaorg'}/>
-                                        <Email url={'https://t.me/CelestiaCommunity'}/>
-                                        <Twitter url={'https://twitter.com/CelestiaOrg'}/>
+                                        <Github url={'https://github.com/hashprotocol'}/>
+                                        <Email url={'https://t.me/HashprotocolCommunity'}/>
+                                        <Twitter url={'https://twitter.com/hashprotocol'}/>
                                         <Youtube url={'https://www.youtube.com/channel/UCLlvAEzXBFZ-P3zS6BF2Bjg'}/>
                                     </div>
                                 </div>
@@ -155,7 +155,7 @@ class Footer extends React.Component {
 
                     <div className={'row justify-content-center'}>
                         <div className={'col col-12 col-sm-6'}>
-                            <p>This website is maintained by Celestia Labs, trading name of Strange Loop Labs AG, Pradafant 11, 9490 Vaduz, Liechtenstein.</p>
+                            <p>This website is maintained by Hash Protocol, trading name of Strange Loop Labs AG, Pradafant 11, 9490 Vaduz, Liechtenstein.</p>
                         </div>
                     </div>
 

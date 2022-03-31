@@ -8,7 +8,7 @@ export const videos = [
     },{
         id: 13,
         category: 'video',
-        title: 'Breaking Down Celestia, The First Modular Blockchain Network (Aditi)',
+        title: 'Breaking Down Hash Protocol, The First Modular Blockchain Network (Aditi)',
         image: 'resources/Aditi-DAOn-interview.png',
         url: 'https://www.youtube.com/watch?v=XLldSScJ4gE',     
     },{
@@ -26,31 +26,31 @@ export const videos = [
     },{
         id: 10,
         category: 'video',
-        title: 'Celestia Deep Dive: Data Availability Sampling, CEVMOS, Rollups & More',
+        title: 'Hash Protocol Deep Dive: Data Availability Sampling, CEVMOS, Rollups & More',
         image: 'resources/Celestia-cryptocito.png',
         url: 'https://www.youtube.com/watch?v=3-kIa-r8Twc',     
     },{
         id: 9,
         category: 'video',
-        title: 'Live with Nick from Celestia',
+        title: 'Live with Nick from Hash Protocol',
         image: 'resources/placeholders/video.png',
         url: 'https://www.twitch.tv/videos/1271355438',
     },{
         id: 8,
         category: 'video',
-        title: 'Ismail Khoffi - Cofounder of Celestia Speaks on Shared Security in the blockchain',
+        title: 'Ismail Khoffi - Cofounder of Hash Protocol Speaks on Shared Security in the blockchain',
         image: 'resources/Ismail-Cosmoverse-thumbnail.png',
         url: 'https://www.youtube.com/watch?v=MabYtuTncW0',
     },{
         id: 1,
         category: 'video',
-        title: 'Celestia: A pluggable consensus and data availability layer',
+        title: 'Hash Protocol: A pluggable consensus and data availability layer',
         image: 'resources/introduction-talk.png',
         url: 'https://www.youtube.com/watch?v=r1Ftl24xu6Q',
     },{
         id: 2,
         category: 'video',
-        title: 'Celestia: Data Availability Layer for Cosmos Network',
+        title: 'Hash Protocol: Data Availability Layer for Cosmos Network',
         image: 'resources/placeholders/video.png',
         url: 'https://www.youtube.com/watch?v=W6Q8D-18EAk',
     },{

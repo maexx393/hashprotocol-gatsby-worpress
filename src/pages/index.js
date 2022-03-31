@@ -54,7 +54,7 @@ class IndexPage extends React.Component {
 
                           <section className={'cards-section'}>
                               <h2 className={'with-decor pb-2'}>How it works</h2>
-                              <div className={'subtitle'}>Celestia is a minimal blockchain that only orders and publishes transactions and does not execute them. By decoupling the consensus and application execution layers, Celestia modularizes the blockchain technology stack and unlocks new possibilities for decentralized application builders.</div>
+                              <div className={'subtitle'}>Hash Protocol is a minimal blockchain that only orders and publishes transactions and does not execute them. By decoupling the consensus and application execution layers, Hash Protocol modularizes the blockchain technology stack and unlocks new possibilities for decentralized application builders.</div>
 
                               <div className={'row mt-5'}>
                                   <div className={'col col-12 col-lg-6 pe-lg-4'}>
@@ -88,12 +88,12 @@ class IndexPage extends React.Component {
                               <div className={'row'}>
                                   <div className={'col col-12 col-lg-6'}>
                                       <h3 className={'with-decor'}>Run a node on testnet</h3>
-                                      <div className={'text'}>Test out the Celestia network and earn rewards in our incentivized testnet.</div>
+                                      <div className={'text'}>Test out the Hash Protocol network and earn rewards in our incentivized testnet.</div>
                                       <div className={'button button-simple'} id={'operator'} role={'button'} tabIndex={0} onClick={this.handleModalOpen} onKeyDown={this.handleModalOpen}>Join the waitlist</div>
                                   </div>
                                   <div className={'col col-12 col-lg-6'}>
                                       <h3 className={'with-decor'}>Build on our developer beta</h3>
-                                      <div className={'text'}>Build on Celestia and be the first to explore the benefits of its novel architecture.</div>
+                                      <div className={'text'}>Build on Hash Protocol and be the first to explore the benefits of its novel architecture.</div>
                                       <div className={'button button-simple'} id={'developer'} role={'button'} tabIndex={0} onClick={this.handleModalOpen} onKeyDown={this.handleModalOpen}>Join the waitlist</div>
                                   </div>
                               </div>

@@ -1,6 +1,6 @@
 export const purpleData = {
         title: 'Join our global community',
-        text: 'Be part of our growing community of developers and innovators who are helping build the Celestia network.',
+        text: 'Be part of our growing community of developers and innovators who are helping build the Hash Protocol network.',
         boxes: [
             {
                 id : 1,
@@ -9,17 +9,17 @@ export const purpleData = {
                 icon: 'home/purple-box-1.svg',
                 button:{
                     title:'Start Chatting',
-                    url: 'https://t.me/CelestiaCommunity'
+                    url: 'https://t.me/HashProtocolCommunity'
                 }
             },
             {
                 id : 2,
                 title : 'Twitter',
-                text : 'Follow @celestiaorg to get the latest news and updates from across the ecosystem.',
+                text : 'Follow @hashprotocol to get the latest news and updates from across the ecosystem.',
                 icon: 'home/purple-box-2.svg',
                 button:{
                     title:'Follow',
-                    url: 'https://twitter.com/CelestiaOrg'
+                    url: 'https://twitter.com/hashprotocol'
                 }
             },
             {
@@ -39,7 +39,7 @@ export const purpleData = {
                 icon: 'home/purple-box-4.svg',
                 button:{
                     title:'Start contributing',
-                    url: 'https://github.com/celestiaorg'
+                    url: 'https://github.com/hashprotocol'
                 }
             }
         ]

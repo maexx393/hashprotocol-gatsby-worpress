@@ -10,7 +10,7 @@ export const content = {
     text: 'Join our team of leading engineers, researchers and entrepreneurs in pioneering the first modular blockchain design.',
     button: {
         text: 'Current openings',
-        url: 'https://angel.co/company/celestialabs/jobs'
+        url: 'https://angel.co/company/hashprotocol/jobs'
     },
     perks:{
         title: 'Perks',
@@ -38,9 +38,9 @@ export const content = {
 export const FooterBoxes = [
     {
         title: 'Join our growing community',
-        text: 'Be part of our growing community of developers and innovators who are helping build the Celestia network.',
+        text: 'Be part of our growing community of developers and innovators who are helping build the Hash Protocol network.',
         button: {
-            text: 'Help build Celestia',
+            text: 'Help build Hash Protocol',
             href: '/join-our-community',
             id: 'operator',
             type: 'simple'
@@ -48,7 +48,7 @@ export const FooterBoxes = [
     },
     {
         title: 'Build on our developer beta',
-        text: 'Build on Celestia and be the first to explore the benefits of its novel architecture.',
+        text: 'Build on Hash Protocol and be the first to explore the benefits of its novel architecture.',
         button: {
             text: 'Join the waitlist',
             href: '#',
