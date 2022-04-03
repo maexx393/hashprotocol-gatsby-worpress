@@ -27,7 +27,7 @@ const navigation = [
             {
                 text: "Read the original research paper",
                 subtext: "Research paper",
-                url: "https://arxiv.org/pdf/1905.09274.pdf",
+                url: "https://arxiv.org/",
                 icon: "menu/research.svg",
                 type: 'external'
             }
