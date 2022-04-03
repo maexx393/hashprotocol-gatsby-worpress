@@ -4,7 +4,7 @@ export const teamMembers = [
         name : 'Thabang Mashiloane',
         title: 'CEO, Hash Protocol',
         text: 'Studied Computer Scienc & AI, Co-founder @Hashbridge, ',
-        image: 'team/MustafaAlBassam.png',
+        image: 'team/pfp.png',
         socials: {
             twitter : 'https://twitter.com/cryptosciencist',
             discord : '',
@@ -18,7 +18,7 @@ export const teamMembers = [
         name : 'Tim Siwula',
         title: 'CTO, Hash Protocol',
         text: 'Former senior engineer at Consensys',
-        image: 'team/IsmailKhoffi.png',
+        image: 'team/pfp.png',
         socials: {
             twitter : 'https://twitter.com/',
             discord : '',

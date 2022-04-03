@@ -4,7 +4,7 @@ export const advisors = [
         name : 'Advisor 1',
         title: 'General Partner,  NFT Platform',
         text: '',
-        image: 'team/MorganBeller.png',
+        image: 'team/pfp.png',
         socials: {
             twitter : 'https://twitter.com/',
             discord : '',
@@ -18,7 +18,7 @@ export const advisors = [
         name : 'Advisor 2',
         title: 'Co-founder, Blockchain contributor',
         text: '',
-        image: 'team/EthanBuchman.png',
+        image: 'team/pfp.png',
         socials: {
             twitter : 'https://twitter.com/',
             discord : '',
@@ -32,7 +32,7 @@ export const advisors = [
         name : 'Advisor 3',
         title: 'Co-creator, Blockchain contributor',
         text: '',
-        image: 'team/ZakiManian.png',
+        image: 'team/pfp.png',
         socials: {
             twitter : 'https://twitter.com/',
             discord : '',
