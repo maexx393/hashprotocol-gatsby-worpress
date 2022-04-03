@@ -142,7 +142,7 @@ class Footer extends React.Component {
                                 <div className={'col col-12 col-sm-6 col-lg-6 align-right pt-5 pt-sm-0'}>
                                     <div className={'col-title text-right'}>Follow us</div>
                                     <div className={'socials'}>
-                                        <Discord url={'https://discord.com/invite/YsnTPcSfWQ'}/>
+                                        <Discord url={'https://discord.com/invite/'}/>
                                         <Github url={'https://github.com/hashprotocol'}/>
                                         <Email url={'https://t.me/HashprotocolCommunity'}/>
                                         <Twitter url={'https://twitter.com/hashprotocol'}/>

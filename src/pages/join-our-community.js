@@ -63,7 +63,7 @@ class JoinOurCommunityPage extends React.Component {
             body: JSON.stringify([Object.values(values)])
         };
 
-        fetch("https://v1.nocodeapi.com/celestia/google_sheets/ZqShkCdhfGTphXJy?tabId=Responses", requestOptions)
+        fetch("https://v1.nocodeapi.com/hashprotocol/google_sheets/TNDbDTEwQfSQCnzx?tabId=Responses", requestOptions)
             .then(response => response.text())
             .then(result => console.log(result))
             .catch(error => console.log('error', error));

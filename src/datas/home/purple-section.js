@@ -25,11 +25,11 @@ export const purpleData = {
             {
                 id : 3,
                 title : 'Developer Chat',
-                text : 'Have technical questions about Celestia tools? Ask a developer on the Community Discord.',
+                text : 'Have technical questions about Hash Protocol tools? Ask a developer on the Community Discord.',
                 icon: 'home/purple-box-3.svg',
                 button:{
                     title:'Ask a question',
-                    url: 'https://discord.com/invite/YsnTPcSfWQ'
+                    url: 'https://discord.com/invite/'
                 }
             },
             {
