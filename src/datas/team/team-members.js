@@ -3,7 +3,7 @@ export const teamMembers = [
         id : 1,
         name : 'Thabang Mashiloane',
         title: 'CEO, Hash Protocol',
-        text: 'PhD in blockchain scaling at UCL, Co-founder of Chainspace (acquired by Facebook)',
+        text: 'Studied Computer Scienc & AI, Co-founder @Hashbridge, ',
         image: 'team/MustafaAlBassam.png',
         socials: {
             twitter : 'https://twitter.com/cryptosciencist',
