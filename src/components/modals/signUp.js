@@ -53,13 +53,13 @@ export default class SignUp extends React.Component {
         }),()=> {
             if(this.state.email){
                 if(this.state.newsletter){
-                    this.mailchimp('https://hashprotocol.us6.list-manage.com/subscribe/post?u=cde2461ba84f5279fff352829&amp;id=6d1ed0c45b')
+                    this.mailchimp('https://hashprotocol.us6.list-manage.com/subscribe/post?u=cde2461ba84f5279fff352829&amp;id=bbbbbbbbb')
                 }
                 if(this.state.developer){
-                    this.mailchimp('https://hashprotocol.us6.list-manage.com/subscribe/post?u=cde2461ba84f5279fff352829&amp;id=bb230bef69')
+                    this.mailchimp('https://hashprotocol.us6.list-manage.com/subscribe/post?u=cde2461ba84f5279fff352829&amp;id=bbbbbbbbb')
                 }
                 if(this.state.operator){
-                    this.mailchimp('https://hashprotocol.us6.list-manage.com/subscribe/post?u=cde2461ba84f5279fff352829&amp;id=9735063be9')
+                    this.mailchimp('https://hashprotocol.us6.list-manage.com/subscribe/post?u=cde2461ba84f5279fff352829&amp;id=bbbbbbbbb')
 
                 }
             }
