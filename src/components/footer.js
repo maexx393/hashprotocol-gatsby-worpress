@@ -146,7 +146,7 @@ class Footer extends React.Component {
                                         <Github url={'https://github.com/hashprotocol'}/>
                                         <Email url={'https://t.me/HashprotocolCommunity'}/>
                                         <Twitter url={'https://twitter.com/hashprotocol'}/>
-                                        <Youtube url={'https://www.youtube.com/channel/UCLlvAEzXBFZ-P3zS6BF2Bjg'}/>
+                                        <Youtube url={'https://www.youtube.com/channel/UCfd3g7lChEliBZ-VnWLp74Q'}/>
                                     </div>
                                 </div>
                             </div>

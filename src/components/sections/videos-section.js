@@ -53,7 +53,7 @@ export default class VideosSection extends React.Component {
             </div>
             <div className={'row justify-content-end mt-5'}>
                 <div className={'col-auto'}>
-                    <Button type={'external'} class={'external'} url={'https://www.youtube.com/channel/UCLlvAEzXBFZ-P3zS6BF2Bjg'} text={'View all videos on Youtube'}/>
+                    <Button type={'external'} class={'external'} url={'https://www.youtube.com/channel/UCfd3g7lChEliBZ-VnWLp74Q'} text={'View all videos on Youtube'}/>
                 </div>
             </div>
         </section>
