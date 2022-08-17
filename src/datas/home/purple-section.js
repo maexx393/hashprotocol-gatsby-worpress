@@ -15,7 +15,7 @@ export const purpleData = {
             {
                 id : 2,
                 title : 'Twitter',
-                text : 'Follow @hashprotocol to get the latest news and updates from across the ecosystem.',
+                text : 'Follow zkhashprotocol to get the latest news and updates from across the ecosystem.',
                 icon: 'home/purple-box-2.svg',
                 button:{
                     title:'Follow',
