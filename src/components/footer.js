@@ -155,7 +155,7 @@ class Footer extends React.Component {
 
                     <div className={'row justify-content-center'}>
                         <div className={'col col-12 col-sm-6'}>
-                            <p>This website is maintained by Hash Protocol, trading name of Hashcash Finance.</p>
+                            <p>This website is maintained by Hash Protocol, trading name of Hash Protocol Finance.</p>
                         </div>
                     </div>
 
